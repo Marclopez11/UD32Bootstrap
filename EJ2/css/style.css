@@ -1,0 +1,35 @@
+h1{
+    color: cyan;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+
+}
+
+.btnedit{
+    text-align: center;
+}
+
+.btncolor{
+    color: white;
+    background-color: rgb(0, 12, 105);
+}
+
+.icono{
+    text-align: right;
+    margin-right: 20px;
+    color: cyan;
+
+    margin-top: 90px;
+}
+
+
+
+.icono2{
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: cyan;
+
+}
+

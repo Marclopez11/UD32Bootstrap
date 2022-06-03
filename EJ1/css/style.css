@@ -1,0 +1,60 @@
+
+body{
+    background-color: black;
+    background-image: url(../fotos/fondo.jpeg);
+    background-repeat: no-repeat;
+}
+
+.caja1{
+    background-color: rgb(255, 255, 255);
+padding: 5%;}
+
+.caja2{
+    background-color: rgba(238, 241, 241, 0.741);
+    padding: 5%;
+}
+
+.cajaglobal{
+    margin-top: 15%;
+}
+
+.text1{
+    color: rgb(117, 129, 129);
+}
+
+.boton{
+    color: black;
+    background-color: aquamarine;
+}
+
+.textocodigo{
+    color: azure;
+    text-align: center;
+}
+
+.textocodigo2{
+    color: rgba(240, 255, 255, 0.841);
+    text-align: center;
+}
+
+.textocodigofooter{
+    color: rgba(240, 255, 255, 0.841);
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 900px;
+
+}
+
+
+.btnfooter{
+    background-color: rgba(0, 0, 0, 0.556)!important; 
+    color: white;
+    border-color: azure;
+
+}
+
+.icono{
+    color: rgb(201, 201, 201);
+    float: right;
+   
+}

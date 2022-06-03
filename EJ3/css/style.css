@@ -1,0 +1,55 @@
+
+	/* Custom style */
+    
+    body{
+        color: rgb(255, 255, 255);
+        background-color: rgba(160, 160, 160, 0.166);
+
+    }
+    .navbar{
+        margin-bottom: 1rem;
+    }
+
+    .icono2{
+        margin-right: 5px;
+        font-size: 15px;
+        
+        color: rgb(255, 255, 255);
+    
+    }
+
+
+    .iconofav{
+        margin-right: 10px;
+        font-size: 15px;
+        color: rgb(255, 255, 255);
+    
+    }
+
+
+    .iconofav2{
+        margin-left: 10px;
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+    
+    }
+
+    .iconofavheader{
+        margin-left: 10px;
+        font-size: 13px;
+        color: rgb(0, 0, 0);
+        margin-right: 7px;
+
+    
+    }
+
+    .header{
+        margin-left: 10px;
+        font-size: 14px;
+        margin-top: 10px;
+        height: 15px;
+    }
+    .left{
+        margin-left: 700px;
+        float: right;
+    }
